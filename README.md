@@ -2,9 +2,9 @@
 * Ferramenta de gerenciamento de projeto: GitHub
 * Tema principal: Ferramenta de manutenção de hábitos
 - Nome provisório do software: HabitCracker
-- Área: Saúde
-- Principal problema que ele resolverá: ajudar usuário a realizar seus hábitos
-* Temcial focada no compartilhamento de imagens
--
-- 
-- 
+- Área a que se aplica: Saúde
+- Principal problema que ele resolverá: falta de organização de hábitos
+* Tema secundário: Rede Social focada no compartilhamento de imagens
+- Nome provisório do software: Bild
+- Área a que se aplica: Relações Humanas  
+- Principal problema que ele resolverá: Compartilhamento e organização de imagens
