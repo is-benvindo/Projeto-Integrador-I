@@ -18,6 +18,8 @@
 
 <h2>Funcionalidades</h2> 
 
+Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5LzqM_gIgebcQ8B8I2qmeS/view?usp=share_link
+
 </br>
 
 - Sistema de cadastro: <br>
