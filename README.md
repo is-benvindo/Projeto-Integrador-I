@@ -30,11 +30,10 @@ Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5
   
 - Sistema de Hábitos: <br>
   <p>1. Adicionar hábitos</p> 
-  <p>2. Alterar hábitos</p>
-  <p>3. Deletar Hábitos</p> 
-  <p>4. Editar hábitos</p> 
-  <p>5. Escolher horário e periodicidade das atividades</p> 
-  <p>6. Marcar atividade como concluída </p> <br>
+  <p>2. Editar hábitos</p>
+  <p>3. Deletar hábitos</p> 
+  <p>4. Escolher horário e periodicidade dos hábitos</p> 
+  <p>5. Marcar hábito como concluído </p> <br>
   
 - Relatórios: <br>
   <p>1. Exibir estatísticas do usuário</p> <br>
@@ -45,8 +44,8 @@ Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5
   
 - Social: <br> 
     <p>1. Solicitar para adicionar amigos </p>
-    <p>2. Visualizar perfil do amigo </p> 
+    <p>2. Visualizar perfil dos amigos </p> 
     <p>3. Ranking dos amigos </p>
-    <p>4. Aceitar ou rejeitar solicitação de amigos </p>
+    <p>4. Aceitar ou rejeitar solicitação de amizade </p>
     <p>5. Remover amigos </p>
     <p>6. Buscar usuário por id ou nome </p>
