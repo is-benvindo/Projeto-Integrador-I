@@ -20,6 +20,8 @@
 
 Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5LzqM_gIgebcQ8B8I2qmeS/view?usp=share_link
 
+Link da Planilha das Funcionalidades: https://docs.google.com/spreadsheets/d/1bm_qjaGGqdFmNZqm09MjvxXfoDvuscSA/edit#gid=719960361
+
 </br>
 
 - Sistema de cadastro: <br>
