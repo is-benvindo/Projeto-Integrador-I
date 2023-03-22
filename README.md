@@ -20,7 +20,7 @@
 
 Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5LzqM_gIgebcQ8B8I2qmeS/view?usp=share_link
 
-Link da Planilha das Funcionalidades: https://docs.google.com/spreadsheets/d/1bm_qjaGGqdFmNZqm09MjvxXfoDvuscSA/edit#gid=719960361
+Planilha Product Backlog e Vídeo explicando: https://drive.google.com/drive/folders/1nBgJFWZhm-Q9mrXlMg4P-n37xhOGwY8s?usp=share_link
 
 </br>
 
