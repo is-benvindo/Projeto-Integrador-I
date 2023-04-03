@@ -18,9 +18,11 @@
 
 <h2>Funcionalidades</h2> 
 
-Link do Vídeo das Funcionalidades: https://drive.google.com/file/d/1fzwBAAnceF5LzqM_gIgebcQ8B8I2qmeS/view?usp=share_link
+Link do Vídeo das Funcionalidades: https://drive.google.com/drive/folders/14yJ_pgmKy-dWhPm9aFAYd6S3h7PDIieJ?usp=share_link
 
-Planilha Product Backlog e Vídeo explicando: https://drive.google.com/drive/folders/1nBgJFWZhm-Q9mrXlMg4P-n37xhOGwY8s?usp=share_link
+Planilha Product Backlog e Vídeo explicando: https://drive.google.com/drive/folders/19IPm0ej-eYestLMda3YeMZST0r5pHcG5?usp=share_link
+
+Wireframe: https://drive.google.com/drive/folders/1X4bEPacjl55Ai897LJWeloqLxYP7Vkjy?usp=share_link
 
 </br>
 
