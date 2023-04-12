@@ -24,8 +24,8 @@ Planilha Product Backlog e Vídeo explicando: https://drive.google.com/drive/fol
 
 Wireframe: https://drive.google.com/drive/folders/1X4bEPacjl55Ai897LJWeloqLxYP7Vkjy?usp=share_link
 
-Prototipo:
-Video - https://drive.google.com/drive/folders/1BrXknbvbPtplwBz6Q-7iryY-SVOC-bAM?usp=share_link
+Prototipo:<br>
+Video - https://drive.google.com/drive/folders/1BrXknbvbPtplwBz6Q-7iryY-SVOC-bAM?usp=share_link<br>
 Figma - https://www.figma.com/file/RmzmLMPFxzKvFDdVUzWPqa/HabitCracker?node-id=0%3A1&t=CUj9OnDsOGkY7p6H-1
 
 </br>
