@@ -12,7 +12,7 @@
 
 <h2>Características do Projeto</h2>
 - Tema principal: Sistema de manutenção de hábitos <br>
-- Nome provisório do software: HabitCracker <br>
+- Nome provisório do software: HabitTracker <br>
 - Área a que se aplica: Saúde <br>
 - Principal problema que ele resolverá: falta de manutenção de hábitos <br>
 
