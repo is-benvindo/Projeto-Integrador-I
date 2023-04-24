@@ -28,6 +28,8 @@ Prototipo:<br>
 Video - https://drive.google.com/drive/folders/1BrXknbvbPtplwBz6Q-7iryY-SVOC-bAM?usp=share_link<br>
 Figma - https://www.figma.com/file/RmzmLMPFxzKvFDdVUzWPqa/HabitCracker?node-id=0%3A1&t=CUj9OnDsOGkY7p6H-1
 
+Especificações: https://drive.google.com/drive/folders/1RBk_fgVCwW1YGOWMsgnXf3vGWyUuM3Xq?usp=share_link
+
 </br>
 
 - Sistema de cadastro: <br>
