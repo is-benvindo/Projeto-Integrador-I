@@ -30,6 +30,8 @@ Figma - https://www.figma.com/file/RmzmLMPFxzKvFDdVUzWPqa/HabitCracker?node-id=0
 
 Especificações: https://drive.google.com/drive/folders/1RBk_fgVCwW1YGOWMsgnXf3vGWyUuM3Xq?usp=share_link
 
+Artigo em LateX: https://drive.google.com/drive/folders/1WtnVIBZ7mtIHhEJkWkRKGcStqrBNV2sE?usp=share_link
+
 </br>
 
 - Sistema de cadastro: <br>
